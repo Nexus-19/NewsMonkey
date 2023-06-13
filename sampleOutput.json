@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "France stabbing: Four children wounded in Annecy knife attack - Reuters",
+        "description": "Four toddlers and two pensioners were stabbed in a knife attack in the tranquil French mountain town of Annecy on Thursday and the government said the suspected assailant was a Syrian refugee.",
+        "url": "https://www.reuters.com/world/europe/some-children-injured-by-knife-attack-french-town-annecy-minister-2023-06-08/",
+        "urlToImage": "https://www.reuters.com/resizer/jJxV9KHf8FG79Ka7sDYmtV7SJhI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OFTAQXWAJFNSJD5OYALG2YJ26A.jpg",
+        "publishedAt": "2023-06-09T06:36:00Z",
+        "content": "ANNECY, France, June 8 (Reuters) - Four toddlers and two pensioners were stabbed in a knife attack in the tranquil French mountain town of Annecy on Thursday and the government said the suspected ass… [+4146 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Hannah Knowles",
+        "title": "Trump defiant, some 2024 presidential candidates silent after DOJ charges - The Washington Post",
+        "description": "“It’s election interference at the highest level,” Trump said without evidence on Thursday night, echoing his response to his first indictment earlier this year in New York.",
+        "url": "https://www.washingtonpost.com/politics/2023/06/08/trump-charges-reaction-2024/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAMBHCNWKVH5HBKSLZ2KJXQNPA.jpg&w=1440",
+        "publishedAt": "2023-06-09T05:55:00Z",
+        "content": "Comment on this story\r\nComment\r\nDonald Trump and his allies were defiant Thursday night in response to the Justice Departments decision to charge him in connection with classified documents found at … [+6872 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Ken Martin",
+        "title": "Binance.US suspends USD deposits after regulators crackdown - Fox Business",
+        "description": "Binance.US, an arm of the world's largest crypto exchange, announced on Thursday in a tweet, that it would be suspending U.S. dollar deposits.",
+        "url": "https://www.foxbusiness.com/markets/binance-us-suspends-usd-deposits-after-regulators-crackdown",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/Binance-A.jpg?ve=1&tl=1",
+        "publishedAt": "2023-06-09T05:41:19Z",
+        "content": "The U.S. arm of the world's largest crypto exchange is suspending U.S. dollar deposits.\r\nBinance.US says its banking partners are preparing to pause fiat dollar withdrawal channels as early as June 1… [+1868 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Belmont Stakes 2023: Odds, post positions, horses, draw for the 155th running of the Triple Crown finale - CBS Sports",
+        "description": "Forte opened as the favorite among a field with contenders such as Preakness winner National Treasure and Tapit Trice",
+        "url": "https://www.cbssports.com/general/news/belmont-stakes-2023-odds-post-positions-horses-draw-for-the-155th-running-of-the-triple-crown-finale/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/08/7c0169f0-75a5-4772-99d5-3e9a3941db7c/thumbnail/1200x675/d13057ca4e434f63a9c73f84dcef3e06/gettyimages-1402341090-1.jpg",
+        "publishedAt": "2023-06-09T05:00:00Z",
+        "content": "Despite concerns over air quality in New York, the 2023 Triple Crown is set to conclude Saturday with the 155th running of the Belmont Stakes. Forte, the Kentucky Derby favorite before being scratche… [+1779 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Gary Fields",
+        "title": "Supreme Court voting rights ruling stuns minority voters, who hope it expands their representation - The Associated Press",
+        "description": "WASHINGTON (AP) — This week's Supreme Court decision  ordering Alabama to redraw its congressional districts was seen by many minority lawmakers and voting rights activists as a stunning victory with the potential to become a major stepping stone for undoing …",
+        "url": "https://apnews.com/article/voting-rights-supreme-court-race-redistricting-alabama-7a1e35b06dd28705322ec20266932523",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/fdb6cb8276f94e04901b36a6aba4e737/3000.webp",
+        "publishedAt": "2023-06-09T04:54:30Z",
+        "content": "WASHINGTON (AP) This weeks Supreme Court decision ordering Alabama to redraw its congressional districts was seen by many minority lawmakers and voting rights activists as a stunning victory with the… [+7796 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Paula Reid,Kristen Holmes,Jeremy Herb,Evan Perez",
+        "title": "Donald Trump indicted on 7 counts in classified documents probe - CNN",
+        "description": "Former President Donald Trump has been indicted on seven counts in the special counsel’s classified documents probe, a stunning development that marks the first time a former president has faced federal charges.",
+        "url": "https://www.cnn.com/2023/06/08/politics/trump-indictment-truth-social-classified-documents/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320113312-06-donald-trump-file.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-06-09T02:58:00Z",
+        "content": "Former President Donald Trump has been indicted on seven counts in the special counsels classified documents probe, a stunning development that marks the first time a former president has faced feder… [+8944 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nintendo Life"
+        },
+        "author": "Liam Doolan",
+        "title": "Sonic Superstars Includes  By OG Designer Naoto Ohshima - Nintendo Life",
+        "description": "That Sonic,and his friends will have to face",
+        "url": "https://www.nintendolife.com/news/2023/06/sonic-superstars-includes-new-character-by-og-designer-naoto-ohshima",
+        "urlToImage": "https://images.nintendolife.com/b62d6f7242c4c/1280x720.jpg",
+        "publishedAt": "2023-06-09T02:55:00Z",
+        "content": "I'm excited for the new character! The 3d designs of everything we've seen so far look perfect imo. Looking forward to seeing 3d Fang/Knack design.\r\nBTW its not just classic Amy design - if you sign … [+1175 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Ukraine counteroffensive against Russia under way: think tank - Al Jazeera English",
+        "description": "US-based Institute for the Study of War says Ukraine counteroffensive unlikely to unfold as ‘single grand operation’.",
+        "url": "https://www.aljazeera.com/news/2023/6/9/ukraine-counteroffensive-against-russia-under-way-think-tank",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-07T091202Z_1303865173_RC29E1ACH1X5_RTRMADP_3_UKRAINE-CRISIS-1686274697.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-06-09T02:25:41Z",
+        "content": "Kyivs counteroffensive against Russian forces has started, a Washington, DC-based think tank monitoring the war in Ukraine has said, though Ukrainian officials continue to deny or decline confirmatio… [+4670 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Russia-Ukraine war: List of key events, day 471 - Al Jazeera English",
+        "description": "As the war enters it 471st day, these are the main developments.",
+        "url": "https://www.aljazeera.com/news/2023/6/9/russia-ukraine-war-list-of-key-events-day-471",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/AP23159689732404-1686273724.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-06-09T02:24:02Z",
+        "content": "This is the situation as it stands on Friday, June 9, 2023\r\nNova Kakhovka dam breach\r\n<ul><li>Ukrainian President Volodymyr Zelenskyy visited areas flooded by the breach of the Nova Kakhovka dam amid… [+3640 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Teslarati"
+        },
+        "author": "Richard Angle",
+        "title": "United Launch Alliance successfully test fires new Vulcan rocket - TESLARATI",
+        "description": "United Launch Alliance successfully test-fires new Vulcan rocket Following a successful Flight Tanking Test (FTT), United Launch Alliance fired up the Vulcan rocket for the first time last night. The two Blue Origin-built BE-4 rocket engines ignited for 6 sec…",
+        "url": "https://www.teslarati.com/united-launch-alliance-successfully-test-fires-new-vulcan-rocket/",
+        "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/06/52960005796_df04371504_k.jpg",
+        "publishedAt": "2023-06-09T02:07:35Z",
+        "content": "United Launch Alliance successfully test-fires new Vulcan rocket\r\nFollowing a successful Flight Tanking Test (FTT), United Launch Alliance fired up the Vulcan rocket for the first time last night. Th… [+3707 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Mail"
+        },
+        "author": "Adam S. Levy, Eve Buckland",
+        "title": "Elliot Page arrives at LAX with his dog Mo amid a number of revelations in new memoir Pageboy - Daily Mail",
+        "description": "The Canadian star, 36, was pictured arriving at LAX airport on Thursday holding his dog Mo, as he continues to make headlines for his new memoir Pageboy.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-12176217/Elliot-Page-arrives-LAX-dog-Mo-amid-number-revelations-new-memoir-Pageboy.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/09/02/71938115-0-image-a-29_1686272764606.jpg",
+        "publishedAt": "2023-06-09T01:37:19Z",
+        "content": "It's been a busy few weeks for Elliot Page, but he keeps moving forward.\r\nThe Canadian star, 36, was pictured arriving at LAX airport on Thursday holding his dog Mo, as he continues to make headlines… [+11246 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Heat Adjustments Backfire As Nuggets Are Well Prepared | 2023 NBA Finals Game 3 Full Highlights - BBALLBREAKDOWN",
+        "description": "#nuggets #heat #nikolajokic #nbafinals Get 20% OFF + Free Shipping @Manscaped with promo code CODE HERE at Manscaped.com! #teammanscaped #givegoodfaceThe Nug...",
+        "url": "https://www.youtube.com/watch?v=kYOxhrzLyOU",
+        "urlToImage": "https://i.ytimg.com/vi/kYOxhrzLyOU/maxresdefault.jpg",
+        "publishedAt": "2023-06-09T01:10:38Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "GM owners will be able to charge their EVs at Tesla Superchargers - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2023/06/08/gm-owners-will-be-able-to-charge-their-evs-at-tesla-superchargers",
+        "urlToImage": null,
+        "publishedAt": "2023-06-09T01:06:30Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Mohammed Tawfeeq",
+        "title": "Shark attack in Egypt kills a Russian citizen - CNN",
+        "description": "Egyptian authorities have banned swimming near a beach at an Egyptian Red Sea resort following a deadly shark attack that killed a Russian citizen on Thursday, according to Egyptian and Russian officials.",
+        "url": "https://www.cnn.com/2023/06/08/middleeast/shark-attack-egypt-red-sea-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230608203502-shark-attack-egypt-red-sea-intl.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-06-09T00:52:00Z",
+        "content": "Egyptian authorities have banned swimming near a beach at an Egyptian Red Sea resort following a deadly shark attack that killed a Russian citizen on Thursday, according to Egyptian and Russian offic… [+1644 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Golf Channel's Brandel Chamblee Talks PGA Tour-LIV Merger with Rich Eisen | Full Interview - The Rich Eisen Show",
+        "description": "Golf Channel analyst Brandel Chamblee tells Rich Eisen that current LIV golfers are necessarily guaranteed a spot back on the PGA Tour of the controversial m...",
+        "url": "https://www.youtube.com/watch?v=xmbeb_E4uZ8",
+        "urlToImage": "https://i.ytimg.com/vi/xmbeb_E4uZ8/maxresdefault.jpg",
+        "publishedAt": "2023-06-09T00:45:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "John Timmer",
+        "title": "A telescope happened to be pointing at the brightest supernova yet observed - Ars Technica",
+        "description": "The BOAT—brightest of all time—reveals the mechanics of gamma-ray bursts.",
+        "url": "https://arstechnica.com/science/2023/06/a-telescope-happened-to-be-pointing-at-the-brightest-supernova-yet-observed/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-1-760x380.jpeg",
+        "publishedAt": "2023-06-09T00:04:35Z",
+        "content": "Enlarge/ Artist's conception of a gamma-ray burst.\r\n18 with \r\nSupernovae are some of the most energetic events in the Universe. And a subset of those involves gamma-ray bursts, where a lot of the ene… [+5173 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KABC-TV"
+        },
+        "author": null,
+        "title": "El Niño has officially formed and that could mean another year of heavy rain in Southern California - KABC-TV",
+        "description": "The entire southern third to half of the United States, including California, is likely to be wetter in El Niño.",
+        "url": "https://abc7.com/southern-california-el-nino-los-angeles-area-weather-ocean-temperatures-2023/13360127/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/13360124_060823-kabc-3pm-el-nino-STRINGER-vid.jpg?w=1600",
+        "publishedAt": "2023-06-08T23:17:51Z",
+        "content": "LOS ANGELES (KABC) -- An early bird El Niño has officially formed.\r\nThe National Oceanic and Atmospheric Administration Thursday issued an El Niño advisory, announcing the arrival of the climatic con… [+2211 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Austin Nivison",
+        "title": "LOOK: Dalvin Cook drops hint on which NFL team he wants to play for next on Instagram - CBS Sports",
+        "description": "Cook, a Miami native, seems to have identified a possible landing spot in free agency",
+        "url": "https://www.cbssports.com/nfl/news/look-dalvin-cook-drops-hint-on-which-nfl-team-he-wants-to-play-for-next-on-instagram/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/08/157809ac-d592-4e27-ad2c-570e53584d88/thumbnail/1200x675/4465a735ae1ce0a4c665e77711561d7d/gettyimages-1244025869-1.jpg",
+        "publishedAt": "2023-06-08T22:38:24Z",
+        "content": "The Minnesota Vikings are set to release star running back Dalvin Cook, and he will become a free agent. The move is not even official yet, but Cook is already leaving hints about a potential landing… [+1449 chars]"
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Louise Boyle",
+        "title": "Air quality - live: Canada wildfire smoke closes restaurants and schools as protest held at White House - The Independent",
+        "description": "Air quality alert today: Live updates from Canada wildfires",
+        "url": "https://www.independent.co.uk/climate-change/news/nyc-air-quality-today-hazardous-canadian-wildfire-b2353603.html",
+        "urlToImage": "https://static.independent.co.uk/2023/06/08/05/Canada_Wildfires_New_York_32469.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2023-06-08T22:20:44Z",
+        "content": "Sign up to the Independent Climate email for the latest advice on saving the planet\r\nGet our free Climate email\r\nHeavy smoke enveloped Washington DC on Thursday as the Metropolitan Washington Council… [+7674 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Vulture"
+        },
+        "author": "Jennifer Zhan",
+        "title": "Why Is Prince Harry in Court? Phone-Hacking Case, Explained. - Vulture",
+        "description": "Prince Harry has sued Mirror Group Newspapers for alleged phone-hacking and unlawful gathering of information. The Duke of Sussex testified in court for the privacy trial and has taken legal action against other British-tabloid publishers.",
+        "url": "http://www.vulture.com/2023/06/prince-harry-phone-hacking-trial-explained.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/8bc/127/7a3d2cafc3b142450f2fb91dd1e0dd1e0a-prince-harry.1x.rsocial.w1200.jpg",
+        "publishedAt": "2023-06-08T22:00:00Z",
+        "content": "Prince Harry is making the case that tabloids are a royal pain. He testified in Londons High Court this week as part of a phone-hacking lawsuit against Mirror Group Newspapers, one of three British p… [+6052 chars]"
+      }
+    ]
+  }
