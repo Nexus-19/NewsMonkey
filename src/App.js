@@ -8,7 +8,6 @@ import LoadingBar from 'react-top-loading-bar';
 
 export default class App extends Component {
   apiKey= process.env.REACT_APP_NEWS_API_KEY
-  // apiKey="e6d6287ec8a9486281c8b4d9d8ac3fa6"
   state = {
     progress: 10
   }
