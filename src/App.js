@@ -7,6 +7,8 @@ import NavBar from "./components/NavBar";
 import LoadingBar from 'react-top-loading-bar';
 
 export default class App extends Component {
+  apiKey= process.env.REACT_APP_NEWS_API_KEY
+  // apiKey="e6d6287ec8a9486281c8b4d9d8ac3fa6"
   state = {
     progress: 10
   }
@@ -38,7 +40,7 @@ export default class App extends Component {
             <Route
               exact
               path="/"
-              element={<News key="general" pageSize={20} country="in" category="general" setProgress={this.setProgress} />}
+              element={<News key="general" pageSize={20} country="in" category="general" setProgress={this.setProgress} apiKey={this.apiKey} />}
             />
           </Routes>
           {pages.map((page) => {
@@ -54,6 +56,7 @@ export default class App extends Component {
                       country="in"
                       category={page}
                       setProgress={this.setProgress}
+                      apiKey={this.apiKey}
                     />
                   }
                 />
